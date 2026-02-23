@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Backend API for Luxemode",
   "scripts": {
-    "start": "json-server --watch db.json --host 0.0.0.0 --port $PORT"
+    "start": "node server.js"
   },
   "author": "Dilshad",
   "license": "ISC",
