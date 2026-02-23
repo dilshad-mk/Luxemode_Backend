@@ -1,0 +1,61 @@
+{
+    "Offer_product":[{
+        "id":1,
+        "image":"/Cap.jpg",
+        "name":"Al Fresco Cotton Twill Cap",
+        "price":"30.00",
+        "offer_price":"24.00",
+        "discount": "-20%"
+
+    },
+    {
+        "id":2,
+        "image":"/Sneaker.jpg",
+         "name":"New Balance 550 Sneaker",
+        "price":"120.00",
+        "offer_price":"102.00",
+        "discount": "-15%"
+    },
+    {
+        "id":3,
+        "image":"/t-shirt.jpg",
+          "name":"'Em All- Acid Wash Graphic T-Shirt",
+        "price":"40.00",
+        "offer_price":"30.00",
+        "discount": "-25%"
+    },
+    {
+           "id":4,
+           "image":"/watch.jpg",
+          "name":"Heritage Rectangular Gold-Tone Watch",
+        "price":"180.00",
+        "offer_price":"126.00",
+        "discount": "-30%"
+    }
+],
+"categories":[{
+    "id":1,
+    "image":"/women.jpg",
+    "name":"Women",
+    "items":250
+},
+    {
+        "id":2,
+        "image":"/men.jpg",
+        "name":"Men",
+    "items":180
+    },
+    {
+        "id":3,
+        "image":"/shoes.jpg",
+        "name":"Shoe",
+    "items":120
+    },
+    {
+        "id":4,
+        "image":"/accesories.jpg",
+        "name":"Accessories",
+    "items":90
+    }
+]
+}
