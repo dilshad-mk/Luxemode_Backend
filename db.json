@@ -154,7 +154,43 @@
       "offer_price": 44.99,
       "category": "Shirts",
       "image": "m10.jpg"
-    }
+    },
+    {
+    "id": "m15",
+    "name": "Script Distressed Oversized Tee",
+    "description": "Heavyweight washed forest green t-shirt featuring a unique raw-edge distressed script logo on the back. Dropped shoulders and a relaxed fit provide a modern streetwear silhouette.",
+    "price": 45.00,
+    "offer_price": 35.00,
+    "category": "T-Shirts",
+    "image": "m15.jpg"
+  },
+  {
+    "id": "m11",
+    "name": "Heritage Striped Rugby Shirt",
+    "description": "Classic long-sleeve rugby polo in deep pine green with a bold white chest stripe. Features a crisp white twill collar and minimalist script embroidery on the chest.",
+    "price": 75.00,
+    "offer_price": 55.00,
+    "category": "Polos",
+    "image": "m11.jpg"
+  },
+  {
+    "id": "m12",
+    "name": "Retro Colorblock Quarter-Zip",
+    "description": "Vintage-style heavyweight pullover featuring cream, navy, and burgundy panels. Detailed with varsity-style 'G&D' chest embroidery and a structured polo-style collar.",
+    "price": 85.00,
+    "offer_price": 68.00,
+    "category": "Sweatshirts",
+    "image": "m12.jpg"
+  },
+  {
+    "id": "m13",
+    "name": "Open-Weave Crochet Polo",
+    "description": "Short-sleeve knit polo in off-white featuring a breathable open-weave crochet texture. Accented with navy contrast tipping on the collar and cuffs with a large centered monogram.",
+    "price": 70.00,
+    "offer_price": 52.00,
+    "category": "Knitwear",
+    "image": "m13.jpg"
+  }
   
 
     
