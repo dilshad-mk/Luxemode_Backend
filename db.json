@@ -1,4 +1,5 @@
 {
+ 
     "Offer_product":[{
         "id":1,
         "image":"/Cap.jpg",
@@ -61,5 +62,469 @@
 
 "signup_users":[
     
+],
+"products_category_men":[
+  
+    {
+      "id": "m1",
+      "name": "Classic White Linen Shirt",
+      "description": "Breathable long-sleeve linen shirt in crisp white with a button-down collar and relaxed fit. Paired with dark wash straight-leg denim.",
+      "price": 55.00,
+      "offer_price": 39.99,
+      "category": "Shirts",
+      "image": "m1.jpg"
+    },
+    {
+      "id": "m2",
+      "name": "Urban Baggy Light-Wash Jeans",
+      "description": "Extra-wide leg streetwear denim in a light vintage wash, styled with a tucked-in navy long-sleeve tee and black belt.",
+      "price": 65.00,
+      "offer_price": 45.00,
+      "category": "Pants",
+      "image": "m2.jpg"
+    },
+    {
+      "id": "m3",
+      "name": "90s Retro Loose Denim",
+      "description": "High-waisted, wide-leg jeans with a faded stone wash. Features a relaxed silhouette perfect for casual streetwear pairings.",
+      "price": 60.00,
+      "offer_price": 42.00,
+      "category": "Pants",
+      "image": "m3.jpg"
+    },
+    {
+      "id": "m4",
+      "name": "Sage Green Smart Trousers",
+      "description": "Tailored slim-fit trousers in sage green featuring a pressed crease and an adjustable waist tab for a modern professional look.",
+      "price": 70.00,
+      "offer_price": 54.99,
+      "category": "Pants",
+      "image": "m4.jpg"
+    },
+    {
+      "id": "m5",
+      "name": "Chocolate Pleated Dress Pants",
+      "description": "Sophisticated brown trousers with subtle front pleats and a straight-leg cut. Ideal for smart-casual or business environments.",
+      "price": 75.00,
+      "offer_price": 59.00,
+      "category": "Pants",
+      "image": "m5.jpg"
+    },
+    {
+      "id": "m6",
+      "name": "Minimalist Monochrome Set",
+      "description": "A clean, high-fashion aesthetic featuring a structured white button-up shirt tucked into matching off-white pleated trousers.",
+      "price": 110.00,
+      "offer_price": 89.99,
+      "category": "Full Outfit",
+      "image": "m6.jpg"
+    },
+    {
+      "id": "m7",
+      "name": "Sandstone Oversized Linen Shirt",
+      "description": "Lightweight linen-blend shirt in a warm sandstone hue, featuring a dropped shoulder and relaxed cuff styling.",
+      "price": 48.00,
+      "offer_price": 35.00,
+      "category": "Shirts",
+      "image": "m7.jpg"
+    },
+    {
+      "id": "m8",
+      "name": "Lavender Pastel Linen Shirt",
+      "description": "Soft lavender purple linen shirt with a relaxed open collar, paired with white summer shorts for a coastal look.",
+      "price": 52.00,
+      "offer_price": 38.50,
+      "category": "Shirts",
+      "image": "m8.jpg"
+    },
+    {
+      "id": "m9",
+      "name": "Rust Terracotta Linen Shirt",
+      "description": "Deep rust-colored linen shirt with a soft texture and tailored fit. A versatile piece for autumn or summer evenings.",
+      "price": 55.00,
+      "offer_price": 40.00,
+      "category": "Shirts",
+      "image": "m9.jpg"
+    },
+    {
+      "id": "m10",
+      "name": "Midnight Navy Relaxed Shirt",
+      "description": "Deep navy blue shirt in a textured fabric with a wide-open neckline, paired with cream-colored linen drawstring trousers.",
+      "price": 58.00,
+      "offer_price": 44.99,
+      "category": "Shirts",
+      "image": "m10.jpg"
+    }
+  
+
+    
+],
+"products_category_women":[
+  {
+    "id": "w10",
+    "name": "Classic Wool Overcoat",
+    "description": "Longline wool-blend coat in obsidian black. Features a structured shoulder, wide notched lapels, and a relaxed, oversized silhouette perfect for layering.",
+    "price": 180.00,
+    "offer_price": 145.00,
+    "category": "Outerwear",
+    "image": "w10.jpg"
+  },
+  {
+    "id": "w1",
+    "name": "Relaxed Oxford Button-Down",
+    "description": "Crisp white long-sleeve shirt in breathable cotton poplin. Designed with a dropped shoulder and an effortless, oversized fit for a clean aesthetic.",
+    "price": 55.00,
+    "offer_price": 38.00,
+    "category": "Tops",
+    "image": "w1.jpg"
+  },
+  {
+    "id": "w2",
+    "name": "High-Waisted Tailored Trouser",
+    "description": "Deep taupe wide-leg trousers featuring sharp front pleats and a structured waistband. Crafted from a mid-weight drape fabric for a sophisticated fall.",
+    "price": 85.00,
+    "offer_price": 62.00,
+    "category": "Bottoms",
+    "image": "w2.jpg"
+  },
+  {
+    "id": "w3",
+    "name": "Flowy Wide-Leg Pleated Pant",
+    "description": "Ultra-wide leg trousers in cream. Features double front pleats, a high-rise waist with belt loops, and a fluid, floor-skimming hemline.",
+    "price": 75.00,
+    "offer_price": 55.00,
+    "category": "Bottoms",
+    "image": "w3.jpg"
+  },
+  {
+    "id": "w4",
+    "name": "Vintage Romance Ringer Tee",
+    "description": "Off-white crew neck tee with navy blue contrast ribbing. Features a 'Romance Never Goes Away' floral graphic in a faded vintage print.",
+    "price": 35.00,
+    "offer_price": 24.00,
+    "category": "T-Shirts",
+    "image": "w4.jpg"
+  },
+  {
+    "id": "w5",
+    "name": "Bonjour Oversized Graphic Tee",
+    "description": "Heavyweight white cotton tee with a boxy fit. Features 'Bonjour Madame Demoiselle' text in a bold, red-brushed script across the chest.",
+    "price": 40.00,
+    "offer_price": 28.00,
+    "category": "T-Shirts",
+    "image": "w5.jpg"
+  },
+  {
+    "id": "w6",
+    "name": "Olive Peace Out Graphic Tee",
+    "description": "Earth-toned olive green t-shirt with a relaxed drop shoulder. Features a white 'Peace Out' circular emblem printed on the front.",
+    "price": 38.00,
+    "offer_price": 25.00,
+    "category": "T-Shirts",
+    "image": "w6.jpg"
+  },
+  {
+    "id": "w7",
+    "name": "New York Collegiate Tee",
+    "description": "Soft lavender oversized t-shirt featuring 'NEW YORK U.S.A' in white varsity-style block lettering. Made from 100% premium cotton.",
+    "price": 42.00,
+    "offer_price": 30.00,
+    "category": "T-Shirts",
+    "image": "w7.jpg"
+  },
+  {
+    "id": "w8",
+    "name": "Daydreamer Angel Graphic Tee",
+    "description": "Sky blue short-sleeve tee featuring a 'Daydreamer Heaven' cherub graphic. Designed with a loose, street-style fit.",
+    "price": 35.00,
+    "offer_price": 22.00,
+    "category": "T-Shirts",
+    "image": "w8.jpg"
+  },
+  {
+    "id": "w9",
+    "name": "Tailored Espresso Blazer",
+    "description": "Single-breasted blazer in a rich espresso brown. Features a minimalist one-button closure, notched lapels, and a modern oversized cut.",
+    "price": 120.00,
+    "offer_price": 89.00,
+    "category": "Outerwear",
+    "image": "w9.jpg"
+  },
+  {
+    "id": "w11",
+    "name": "Sky Blue Puffed Sleeve Oxford",
+    "description": "Lightweight cotton button-down in soft azure. Features unique gathered puff sleeves and a classic pointed collar for a modern twist on office wear.",
+    "price": 55.00,
+    "offer_price": 42.00,
+    "category": "Tops",
+    "image": "w11.jpg"
+  },
+  {
+    "id": "w12",
+    "name": "Crisp White Essential Poplin",
+    "description": "The ultimate wardrobe staple. A bright white, relaxed-fit poplin shirt with adjustable button cuffs and a deep V-neckline when unbuttoned.",
+    "price": 48.00,
+    "offer_price": 35.00,
+    "category": "Tops",
+    "image": "w12.jpg"
+  },
+  {
+    "id": "w13",
+    "name": "Coastal Blue Linen Stripe Shirt",
+    "description": "Breathable linen-blend shirt featuring vertical white and blue stripes. Designed with a dropped shoulder and an oversized, airy fit perfect for summer layering.",
+    "price": 60.00,
+    "offer_price": 45.00,
+    "category": "Tops",
+    "image": "w13.jpg"
+  },
+  {
+    "id": "w14",
+    "name": "Autumn Check Flannel Over-shirt",
+    "description": "Soft-touch flannel in a warm brown and sky blue checkered pattern. Features a relaxed silhouette and tonal buttons for a cozy, casual aesthetic.",
+    "price": 52.00,
+    "offer_price": 38.00,
+    "category": "Tops",
+    "image": "w14.jpg"
+  },
+  {
+    "id": "w15",
+    "name": "Earth-Tone Pinstripe Relaxed Shirt",
+    "description": "Cream-based shirt with thin chocolate brown vertical stripes. Features a clean hemline and a fluid drape, ideal for wearing open over a tank.",
+    "price": 58.00,
+    "offer_price": 44.00,
+    "category": "Tops",
+    "image": "w15.jpg"
+  }
+],
+"products_category_shoe":[
+  {
+    "id": "s1",
+    "name": "VANS Knu Skool Puffy 'Burgundy'",
+    "description": "A 90s-inspired low-top with a puffed-up aesthetic. Features a deep burgundy suede upper, iconic white 3D Sidestripe, and oversized chunky white laces for a bold skate silhouette.",
+    "price": 85.00,
+    "offer_price": 72.00,
+    "category": "Footwear",
+    "image": "s1.jpg"
+  },
+  {
+    "id": "s2",
+    "name": "STRAYE Logan Flame 'Red Suede'",
+    "description": "Low-profile skate shoe featuring a vibrant red suede and canvas upper. Accented with white flame overlays on the sides and ultra-thick 'fat' white laces for a retro-skate look.",
+    "price": 60.00,
+    "offer_price": 45.00,
+    "category": "Footwear",
+    "image": "s2.jpg"
+  },
+  {
+    "id": "s3",
+    "name": "STRAYE Logan 'Deep Forest Flame'",
+    "description": "Skate-ready sneaker in a monochromatic forest green hairy suede. Features cream-colored flame side graphics and matching off-white laces on a high-foxing rubber sole.",
+    "price": 60.00,
+    "offer_price": 50.00,
+    "category": "Footwear",
+    "image": "s3.jpg"
+  },
+  {
+    "id": "s4",
+    "name": "STRAYE Logan 'Multi-Tone Flame'",
+    "description": "A patchwork style skate shoe combining rust-orange suede, teal canvas, and navy leather. Finished with white flame detailing and cream laces for a vintage custom aesthetic.",
+    "price": 65.00,
+    "offer_price": 55.00,
+    "category": "Footwear",
+    "image": "s4.jpg"
+  },
+  {
+    "id": "s5",
+    "name": "VANS Style 47 Creeper 'Off-White'",
+    "description": "A clean, minimalist slip-on with a punk edge. Features an off-white suede upper, a metal buckle strap across the midfoot, and a thick black ribbed creeper sole.",
+    "price": 95.00,
+    "offer_price": 79.00,
+    "category": "Footwear",
+    "image": "s5.jpg"
+  },
+  {
+    "id": "s6",
+    "name": "ADIDAS Campus 00s 'Chocolate Brown'",
+    "description": "A chunky reimagining of the classic Campus. Features a rich chocolate brown suede upper, oversized white serrated three-stripes, and fat laces in a matching brown tone.",
+    "price": 110.00,
+    "offer_price": 90.00,
+    "category": "Footwear",
+    "image": "s6.jpg"
+  },
+  {
+    "id": "s7",
+    "name": "NIKE SB Dunk Low x Jarritos",
+    "description": "A collaborative skate shoe featuring white leather and hemp-like burlap overlays. Highlighted by a Malachite green swoosh and orange Jarritos jug embroidery at the heel.",
+    "price": 130.00,
+    "offer_price": 130.00,
+    "category": "Footwear",
+    "image": "s7.jpg"
+  },
+  {
+    "id": "s8",
+    "name": "ADIDAS Rivalry Low 'Cream & Navy'",
+    "description": "Vintage basketball-inspired low-top. Combines cream leather panels with navy blue suede stripes and golden-yellow laces for a classic collegiate feel.",
+    "price": 100.00,
+    "offer_price": 85.00,
+    "category": "Footwear",
+    "image": "s8.jpg"
+  },
+  {
+    "id": "s9",
+    "name": "NEW BALANCE 2002R 'Navy Suede'",
+    "description": "Premium lifestyle runner featuring a deep navy blue mesh and suede upper. Includes N-ergy cushioning technology and a contrasting light grey 'N' logo and midsole.",
+    "price": 145.00,
+    "offer_price": 120.00,
+    "category": "Footwear",
+    "image": "s9.jpg"
+  },
+  {
+    "id": "s10",
+    "name": "NEW BALANCE 9060 'Mineral Green'",
+    "description": "Experimental chunky silhouette in shades of sage and forest green. Features a wavy sculpted midsole, mesh base with pigskin suede overlays, and translucent heel clips.",
+    "price": 150.00,
+    "offer_price": 135.00,
+    "category": "Footwear",
+    "image": "s10.jpg"
+  }
+],
+"products_category_accessories":[
+  {
+    "id": "a10",
+    "name": "Miansai Gold Signet Band",
+    "description": "A polished 14k gold-plated sterling silver band featuring a rectangular signet face with a single offset diamond accent. Minimalist and sleek with internal branding.",
+    "price": 165.00,
+    "offer_price": 145.00,
+    "category": "Rings",
+    "image": "a10.jpg"
+  },
+  {
+    "id": "a1",
+    "name": "Celestial Mixed-Link Necklace",
+    "description": "A multi-textured silver-tone necklace combining heavy oval links, organic pebble beads, and a delicate curb chain. Centered with a North Star pendant and a caged pearl drop.",
+    "price": 55.00,
+    "offer_price": 38.00,
+    "category": "Necklaces",
+    "image": "a1.jpg"
+  },
+  {
+    "id": "a2",
+    "name": "Venus Medallion Layering Set",
+    "description": "Double-layered silver curb chain set featuring a high-polish finish. Includes a rectangular portrait pendant embossed with a classic Venus motif and '1990' engraving.",
+    "price": 45.00,
+    "offer_price": 32.00,
+    "category": "Necklaces",
+    "image": "a2.jpg"
+  },
+  {
+    "id": "a3",
+    "name": "Seiko Chronos Two-Tone Vintage",
+    "description": "Vintage Seiko Chronos Quartz with a brushed stainless steel integrated bracelet. Features a gold-tone bezel and a silver sunray dial with Roman numeral indices.",
+    "price": 210.00,
+    "offer_price": 185.00,
+    "category": "Watches",
+    "image": "a3.jpg"
+  },
+  {
+    "id": "a4",
+    "name": "Seiko Quartz Tank 'Lorus' Style",
+    "description": "Elegant silver-tone dress watch with an octagonal tank case and a sophisticated mesh-textured integrated bracelet. Minimalist white dial with slim stick markers.",
+    "price": 195.00,
+    "offer_price": 160.00,
+    "category": "Watches",
+    "image": "a4.jpg"
+  },
+  {
+    "id": "a5",
+    "name": "Seiko Alarm Quartz Day-Date",
+    "description": "Retro-inspired steel watch with a rounded square case and matte black dial. Includes a day-date window at 3 o'clock and a unique arched alarm indicator at the top.",
+    "price": 240.00,
+    "offer_price": 199.00,
+    "category": "Watches",
+    "image": "a5.jpg"
+  },
+  {
+    "id": "a6",
+    "name": "Seiko Speedmaster 'Aliens' Edition",
+    "description": "Industrial matte grey chronograph designed by Giorgetto Giugiaro. Features a distinct offset case, orange tactile pushers, and a tactical racing-style triple sub-dial layout.",
+    "price": 450.00,
+    "offer_price": 375.00,
+    "category": "Watches",
+    "image": "a6.jpg"
+  },
+  {
+    "id": "a7",
+    "name": "Engraved Leather ID Bracelet",
+    "description": "Minimalist black leather strap bracelet with a high-shine silver ID plate. Features delicate cursive script engraving and secure polished metal end-caps.",
+    "price": 40.00,
+    "offer_price": 29.00,
+    "category": "Bracelets",
+    "image": "a7.jpg"
+  },
+  {
+    "id": "a8",
+    "name": "Satin Gold Magnetic Cuff",
+    "description": "Slim tan leather cord bracelet featuring a flat, satin-finished gold bar. Secured with a modern magnetic barrel clasp for a seamless, architectural look.",
+    "price": 48.00,
+    "offer_price": 35.00,
+    "category": "Bracelets",
+    "image": "a8.jpg"
+  },
+  {
+    "id": "a9",
+    "name": "Braided Stealth Black Bracelet",
+    "description": "Dual-strand men's bracelet combining matte braided cord and a smooth leather strap. Features a tonal black curved ID bar and a heavy-duty stainless steel buckle.",
+    "price": 35.00,
+    "offer_price": 25.00,
+    "category": "Bracelets",
+    "image": "a9.jpg"
+  },{
+    "id": "a11",
+    "name": "Shield Signet Cross Ring",
+    "description": "A polished gold-tone signet ring featuring a raised cross emblem set against a textured, vertically-lined shield background. Designed with a tapered band and a high-shine finish.",
+    "price": 85.00,
+    "offer_price": 68.00,
+    "category": "Jewelry",
+    "image": "a11.jpg"
+  },
+  {
+    "id": "a12",
+    "name": "Celestial Star Stackable Set",
+    "description": "A trio of slender gold bands featuring intricate celestial motifs. Includes a textured band with embedded crystals and a centerpiece ring with a prominent eight-point North Star.",
+    "price": 120.00,
+    "offer_price": 95.00,
+    "category": "Jewelry",
+    "image": "a12.jpg"
+  },
+  {
+    "id": "a13",
+    "name": "Minimalist Onyx Square Ring",
+    "description": "A sleek, contemporary gold band featuring a flat-top square face with a genuine black onyx inlay. The clean lines and bold contrast offer a modern take on the classic signet style.",
+    "price": 75.00,
+    "offer_price": 55.00,
+    "category": "Jewelry",
+    "image": "a13.jpg"
+  },
+  {
+    "id": "a14",
+    "name": "Artisan Gold Charm Collection",
+    "description": "An assortment of delicate gold-tone rings including a twisted knot design, a mint-green gemstone solitaire, and a textured wheat-ear band. Perfect for versatile stacking.",
+    "price": 110.00,
+    "offer_price": 82.00,
+    "category": "Jewelry",
+    "image": "a14.jpg"
+  },
+  {
+    "id": "a15",
+    "name": "Heritage Olive Acetate Sunglasses",
+    "description": "Premium translucent olive green acetate frames with gold-tone hardware. Features a structural bridge, engraved metallic temples, and matching green-tinted lenses for a monochromatic look.",
+    "price": 250.00,
+    "offer_price": 195.00,
+    "category": "Accessories",
+    "image": "a15.jpg"
+  }
 ]
+
 }
+
+
